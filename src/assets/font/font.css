@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/*定义字体*/
+@font-face {
+  font-family: 阿里巴巴普惠体;
+  src: url('~@/assets/font/AlibabaPuHuiTi-3-85-Bold.otf');
+  font-weight: normal;
+  font-style: normal;
+}
